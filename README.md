@@ -73,7 +73,7 @@ $ az vm image list -l eastus -p Canonical -f UbuntuServer --all | \
 {"sku":"18.04-LTS","version":"18.04.202102240"}
 $
 ```
-Ref: 
+Ref: [[Azure]TerraformでLinux VMをデプロイするイメージのバージョンをjqでイイカンジに調べる方法](https://zenn.dev/gkz/articles/azure-provider-terraform-jq) 
 
 ## License
 Copyright (c) 2021 [gkz](https://gkz.mit-license.org/2021)
